@@ -1,3 +1,6 @@
+# IMPORTANT
+This repository uses the MIT License
+
 # DESCRIPTION
 Just some stuff for making covers/mods for Friday Night Funkin'
 
