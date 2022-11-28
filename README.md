@@ -9,4 +9,6 @@ This repository is public, because knowing me i'll FUCKIN forget the password to
 # CREDITS
 Xenophanes voice - [TheLyrix](https://www.youtube.com/channel/UC6Ah14w5--go-q-CK9w1vyA/featured)
 
+Shinto midi's - [Makko](https://www.youtube.com/@TheOnlyMakko)
+
 Shitno midi's - [NoahWD](https://github.com/NoahWantsDie)
