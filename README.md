@@ -1,5 +1,5 @@
 # NOTE
-Most stuff i use aren't made by me, if you want me to remove your work, than just dm me on discord: RustlingTitan#3619
+Most stuff i use aren't made by me, if you want me to remove your work, than just dm me on discord: RustlingTitan36#3619
 
 # DESCRIPTION
 Just some stuff for making song covers/mods for [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin/)
